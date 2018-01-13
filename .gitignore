@@ -21,6 +21,7 @@
 
 # misc
 npm-debug.log
+*.zip
 
 # System Files
 .DS_Store
