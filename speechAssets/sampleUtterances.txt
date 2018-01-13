@@ -1,0 +1,13 @@
+LineIntent {Line}
+LineIntent whats happening with the {Line}
+LineIntent whats happening with the {Line} line
+LineIntent whats the status of the {Line}
+LineIntent whats the status of the {Line} line
+LineIntent how is the {Line}
+LineIntent how is the {Line} line
+LineIntent tell me about the {Line}
+LineIntent tell me about the {Line} line
+LineIntent talk about {Line}
+AMAZON.HelpIntent tell me about those lines again
+AMAZON.HelpIntent tell me those the lines
+AMAZON.HelpIntent what are the lines

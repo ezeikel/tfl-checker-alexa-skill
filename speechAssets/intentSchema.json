@@ -1,0 +1,28 @@
+{
+    "intents": [
+        {
+            "intent": "LineIntent",
+            "slots": [
+                {
+                    "name": "Line",
+                    "type": "LIST_OF_LINES"
+                }
+            ]
+        },
+        {
+            "intent": "AMAZON.YesIntent"
+        },
+        {
+            "intent": "AMAZON.NoIntent"
+        },
+        {
+            "intent": "AMAZON.HelpIntent"
+        },
+        {
+            "intent": "AMAZON.StopIntent"
+        },
+        {
+            "intent": "AMAZON.CancelIntent"
+        }
+    ]
+}
